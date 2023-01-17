@@ -6,4 +6,4 @@
       "RUN set -ex \\ && cd ${WEBDEVBinaries} \\ && ${WEBDEVBinaries}WDInstalle /DOCKER/INSTALLEGO/TEST",
       "VOLUME ${WEBDEVConfiguration}comptes/Donnees/TEST/"
    ]
-}
+} 
